@@ -1,0 +1,1 @@
+Aplikacja mobilna dostarczająca informacji o rozkładzie jazdy belgijskiej kolei. Jako źródło danych wykorzystuje ona Web API: https://docs.irail.be/

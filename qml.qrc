@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/findConnection.png</file>
+        <file>images/findStation.png</file>
+        <file>images/favRoutes.png</file>
+        <file>images/favTrains.png</file>
+        <file>MainMenu.qml</file>
+        <file>ConnectionSearch.qml</file>
+        <file>CalendarElement.qml</file>
+        <file>ConnectionsSearchResult.qml</file>
+        <file>Train.qml</file>
+        <file>ConnectionDetails.qml</file>
+        <file>StationSearch.qml</file>
+        <file>Station.qml</file>
+        <file>FavRoutes.qml</file>
+        <file>FavTrains.qml</file>
+        <file>images/swap.png</file>
+        <file>images/delete.png</file>
+        <file>images/swapDirections.png</file>
+        <file>images/bench.png</file>
+        <file>images/emptyStar.png</file>
+        <file>images/filledStar.png</file>
+    </qresource>
+</RCC>
